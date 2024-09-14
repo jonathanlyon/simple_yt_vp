@@ -1,1 +1,1 @@
-# simple_yt_vp
+# Simple YouTube video player for Directus using plyr
